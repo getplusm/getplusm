@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @getplusm
+Привет, я плазмер. 
+Мой телеграм: t.me/p1azmer
+Мой проект: t.me/aves_mc
 
 <!---
 getplusm/getplusm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
