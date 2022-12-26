@@ -6,14 +6,6 @@
 - 💼 &nbsp; full-stack developer and Data Science.
 - 😴 &nbsp; I belive, a perfect nap can be the ultimate solution for any stress. 
 
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; Python | JavaScript | React | C++ |MERN  
-- 🌐 &nbsp; Full-Stack | React | HTML | CSS | JavaScript | Bootstrap | Sass | Tailwind 
-- 🛢 &nbsp; MySQL | Firebase | Postman
-- 🔧 &nbsp; Google Collab | Jupyter | Visual Studio code  | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | Figma
-
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=getplusm&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
 <br>
@@ -24,7 +16,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumawatlalit912&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/kumawatlalit912/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=getplusm&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/kumawatlalit912/github-readme-stats)
 
 
 
@@ -32,10 +24,6 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="https://twitter.com/mrlalitkumawat1" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/kumawatlalit007/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/kumawatlalit007/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:kumawatlalit912@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="https://vk.com/ru.milow" target="_blank" rel="noopener noreferrer"><img src="[https://img.icons8.com/plasticine/100/000000/twitter.png](https://cdn-icons-png.flaticon.com/512/733/733583.png)" width="50" /></a>  
+&nbsp; <a href="https://t.me/p1azmer" target="_blank" rel="noopener noreferrer"><img src="[https://img.icons8.com/plasticine/100/000000/instagram-new.png](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/800px-Telegram_logo.svg.png)" width="50" /></a>  
 </p>
-
-⭐️ From [kumawatlalit912](https://github.com/kumawatlalit912)
