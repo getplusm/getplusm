@@ -1,6 +1,6 @@
 <p align="center">
 &nbsp; <a href="https://vk.com/ru.milow" target="_blank" rel="noopener noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="50" /></a>  
-&nbsp; <a href="https://t.me/getplusm" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/800px-Telegram_logo.svg.png" width="50" />
+&nbsp; <a href="https://t.me/p1azmer" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/800px-Telegram_logo.svg.png" width="50" />
 </p>
 
 ## Hi 👋, I am Kirill Plazmer.
